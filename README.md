@@ -11,7 +11,7 @@ Welcome on agotapi, a Game of Thrones API.
 Make sure git and node.js are installed on your computer. Then you can clone this repository :
 
 ```bash
-git clone https://github.com/marceaudavid/agotapi.git
+git clone https://github.com/sasmitak/agotapi.git
 cd agotapi
 ```
 

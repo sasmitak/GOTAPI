@@ -1,29 +1,27 @@
 {
   "name": "agotapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "Welcome on agotapi, a Game of Thrones API.",
   "main": "app.js",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.16.4",
-    "mongoose": "^5.7.5",
-    "yargs": "^13.2.2"
+    "express": "^4.17.2",
+    "mongoose": "^5.13.14",
+    "yargs": "^13.3.2"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node app.js",
+    "start":"node app.js",
     "dev": "nodemon app.js",
     "seed": "node mongo/seed.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marceaudavid/agotapi.git"
+    "url": "git+https://github.com/sasmitak/agotapi.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marceaudavid/agotapi/issues"
+    "url": "https://github.com/sasmitak/agotapi/issues"
   },
-  "homepage": "https://github.com/marceaudavid/agotapi#readme"
+  "homepage": "https://github.com/sasmitak/agotapi#readme"
 }
